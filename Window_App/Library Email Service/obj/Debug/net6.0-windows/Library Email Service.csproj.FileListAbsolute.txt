@@ -1,0 +1,28 @@
+C:\Users\Daztine\source\repos\Library Email Service\bin\Debug\net6.0-windows\Library Email Service.exe
+C:\Users\Daztine\source\repos\Library Email Service\bin\Debug\net6.0-windows\Library Email Service.deps.json
+C:\Users\Daztine\source\repos\Library Email Service\bin\Debug\net6.0-windows\Library Email Service.runtimeconfig.json
+C:\Users\Daztine\source\repos\Library Email Service\bin\Debug\net6.0-windows\Library Email Service.dll
+C:\Users\Daztine\source\repos\Library Email Service\bin\Debug\net6.0-windows\Library Email Service.pdb
+C:\Users\Daztine\source\repos\Library Email Service\obj\Debug\net6.0-windows\Library_Email_Service.Form1.resources
+C:\Users\Daztine\source\repos\Library Email Service\obj\Debug\net6.0-windows\Library Email Service.csproj.GenerateResource.cache
+C:\Users\Daztine\source\repos\Library Email Service\obj\Debug\net6.0-windows\Library Email Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daztine\source\repos\Library Email Service\obj\Debug\net6.0-windows\Library Email Service.AssemblyInfoInputs.cache
+C:\Users\Daztine\source\repos\Library Email Service\obj\Debug\net6.0-windows\Library Email Service.AssemblyInfo.cs
+C:\Users\Daztine\source\repos\Library Email Service\obj\Debug\net6.0-windows\Library Email Service.csproj.CoreCompileInputs.cache
+C:\Users\Daztine\source\repos\Library Email Service\obj\Debug\net6.0-windows\Library Email Service.dll
+C:\Users\Daztine\source\repos\Library Email Service\obj\Debug\net6.0-windows\refint\Library Email Service.dll
+C:\Users\Daztine\source\repos\Library Email Service\obj\Debug\net6.0-windows\Library Email Service.pdb
+C:\Users\Daztine\source\repos\Library Email Service\obj\Debug\net6.0-windows\Library Email Service.genruntimeconfig.cache
+C:\Users\Daztine\source\repos\Library Email Service\obj\Debug\net6.0-windows\ref\Library Email Service.dll
+C:\Users\Daztine\source\repos\Library Email Service\bin\Debug\net6.0-windows\Microsoft.Win32.TaskScheduler.dll
+C:\Users\Daztine\source\repos\Library Email Service\bin\Debug\net6.0-windows\de\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Daztine\source\repos\Library Email Service\bin\Debug\net6.0-windows\es\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Daztine\source\repos\Library Email Service\bin\Debug\net6.0-windows\fr\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Daztine\source\repos\Library Email Service\bin\Debug\net6.0-windows\it\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Daztine\source\repos\Library Email Service\bin\Debug\net6.0-windows\pl\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Daztine\source\repos\Library Email Service\bin\Debug\net6.0-windows\ru\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Daztine\source\repos\Library Email Service\bin\Debug\net6.0-windows\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Daztine\source\repos\Library Email Service\bin\Debug\net6.0-windows\zh-Hant\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Daztine\source\repos\Library Email Service\obj\Debug\net6.0-windows\Library Email Service.csproj.AssemblyReference.cache
+C:\Users\Daztine\source\repos\Library Email Service\obj\Debug\net6.0-windows\Library Email Service.csproj.CopyComplete
+C:\Users\Daztine\source\repos\Library Email Service\bin\Debug\net6.0-windows\serverun.bat

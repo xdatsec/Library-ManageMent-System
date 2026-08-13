@@ -1,0 +1,13 @@
+/* put your own styles to customize and override the theme */
+
+#logout:hover {
+    text-decoration: none;
+    color: black;
+    background-color: #fff;
+}
+
+#logout2:hover {
+    text-decoration: none;
+    color: black;
+    background-color: #fff;
+}

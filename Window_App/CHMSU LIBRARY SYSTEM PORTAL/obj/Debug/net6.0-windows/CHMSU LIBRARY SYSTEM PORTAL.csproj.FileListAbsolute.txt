@@ -1,0 +1,54 @@
+C:\Users\Daztine\source\repos\CHMSU LIBRARY SYSTEM PORTAL\obj\Debug\net6.0-windows\CHMSU LIBRARY SYSTEM PORTAL.csproj.AssemblyReference.cache
+C:\Users\Daztine\source\repos\CHMSU LIBRARY SYSTEM PORTAL\obj\Debug\net6.0-windows\CHMSU_LIBRARY_SYSTEM_PORTAL.Form1.resources
+C:\Users\Daztine\source\repos\CHMSU LIBRARY SYSTEM PORTAL\obj\Debug\net6.0-windows\CHMSU LIBRARY SYSTEM PORTAL.csproj.GenerateResource.cache
+C:\Users\Daztine\source\repos\CHMSU LIBRARY SYSTEM PORTAL\obj\Debug\net6.0-windows\CHMSU LIBRARY SYSTEM PORTAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daztine\source\repos\CHMSU LIBRARY SYSTEM PORTAL\obj\Debug\net6.0-windows\CHMSU LIBRARY SYSTEM PORTAL.AssemblyInfoInputs.cache
+C:\Users\Daztine\source\repos\CHMSU LIBRARY SYSTEM PORTAL\obj\Debug\net6.0-windows\CHMSU LIBRARY SYSTEM PORTAL.AssemblyInfo.cs
+C:\Users\Daztine\source\repos\CHMSU LIBRARY SYSTEM PORTAL\obj\Debug\net6.0-windows\CHMSU LIBRARY SYSTEM PORTAL.csproj.CoreCompileInputs.cache
+C:\Users\Daztine\source\repos\CHMSU LIBRARY SYSTEM PORTAL\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Daztine\source\repos\CHMSU LIBRARY SYSTEM PORTAL\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Daztine\source\repos\CHMSU LIBRARY SYSTEM PORTAL\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Daztine\source\repos\CHMSU LIBRARY SYSTEM PORTAL\bin\Debug\net6.0-windows\CHMSU LIBRARY SYSTEM PORTAL.exe
+C:\Users\Daztine\source\repos\CHMSU LIBRARY SYSTEM PORTAL\bin\Debug\net6.0-windows\CHMSU LIBRARY SYSTEM PORTAL.deps.json
+C:\Users\Daztine\source\repos\CHMSU LIBRARY SYSTEM PORTAL\bin\Debug\net6.0-windows\CHMSU LIBRARY SYSTEM PORTAL.runtimeconfig.json
+C:\Users\Daztine\source\repos\CHMSU LIBRARY SYSTEM PORTAL\bin\Debug\net6.0-windows\CHMSU LIBRARY SYSTEM PORTAL.dll
+C:\Users\Daztine\source\repos\CHMSU LIBRARY SYSTEM PORTAL\bin\Debug\net6.0-windows\CHMSU LIBRARY SYSTEM PORTAL.pdb
+C:\Users\Daztine\source\repos\CHMSU LIBRARY SYSTEM PORTAL\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Daztine\source\repos\CHMSU LIBRARY SYSTEM PORTAL\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Daztine\source\repos\CHMSU LIBRARY SYSTEM PORTAL\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Daztine\source\repos\CHMSU LIBRARY SYSTEM PORTAL\obj\Debug\net6.0-windows\CHMSU LIBRARY SYSTEM PORTAL.csproj.CopyComplete
+C:\Users\Daztine\source\repos\CHMSU LIBRARY SYSTEM PORTAL\obj\Debug\net6.0-windows\CHMSU LIBRARY SYSTEM PORTAL.dll
+C:\Users\Daztine\source\repos\CHMSU LIBRARY SYSTEM PORTAL\obj\Debug\net6.0-windows\refint\CHMSU LIBRARY SYSTEM PORTAL.dll
+C:\Users\Daztine\source\repos\CHMSU LIBRARY SYSTEM PORTAL\obj\Debug\net6.0-windows\CHMSU LIBRARY SYSTEM PORTAL.pdb
+C:\Users\Daztine\source\repos\CHMSU LIBRARY SYSTEM PORTAL\obj\Debug\net6.0-windows\CHMSU LIBRARY SYSTEM PORTAL.genruntimeconfig.cache
+C:\Users\Daztine\source\repos\CHMSU LIBRARY SYSTEM PORTAL\obj\Debug\net6.0-windows\ref\CHMSU LIBRARY SYSTEM PORTAL.dll
+C:\Users\Daztine\source\repos\CHMSU LIBRARY SYSTEM PORTAL\obj\Debug\net6.0-windows\CHMSU_LIBRARY_SYSTEM_PORTAL.Properties.Resources.resources
+C:\Users\Daztine\source\repos\CHMSU LIBRARY SYSTEM PORTAL\bin\Debug\net6.0-windows\config.ini
+C:\Users\Daztine\source\repos\CHMSU LIBRARY SYSTEM PORTAL\bin\Debug\net6.0-windows\CHMSU.ico
+C:\xampp\htdocs\Window_App\CHMSU LIBRARY SYSTEM PORTAL\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\xampp\htdocs\Window_App\CHMSU LIBRARY SYSTEM PORTAL\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\xampp\htdocs\Window_App\CHMSU LIBRARY SYSTEM PORTAL\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\xampp\htdocs\Window_App\CHMSU LIBRARY SYSTEM PORTAL\bin\Debug\net6.0-windows\CHMSU LIBRARY SYSTEM PORTAL.exe
+C:\xampp\htdocs\Window_App\CHMSU LIBRARY SYSTEM PORTAL\bin\Debug\net6.0-windows\CHMSU.ico
+C:\xampp\htdocs\Window_App\CHMSU LIBRARY SYSTEM PORTAL\bin\Debug\net6.0-windows\config.ini
+C:\xampp\htdocs\Window_App\CHMSU LIBRARY SYSTEM PORTAL\bin\Debug\net6.0-windows\CHMSU LIBRARY SYSTEM PORTAL.deps.json
+C:\xampp\htdocs\Window_App\CHMSU LIBRARY SYSTEM PORTAL\bin\Debug\net6.0-windows\CHMSU LIBRARY SYSTEM PORTAL.runtimeconfig.json
+C:\xampp\htdocs\Window_App\CHMSU LIBRARY SYSTEM PORTAL\bin\Debug\net6.0-windows\CHMSU LIBRARY SYSTEM PORTAL.dll
+C:\xampp\htdocs\Window_App\CHMSU LIBRARY SYSTEM PORTAL\bin\Debug\net6.0-windows\CHMSU LIBRARY SYSTEM PORTAL.pdb
+C:\xampp\htdocs\Window_App\CHMSU LIBRARY SYSTEM PORTAL\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\xampp\htdocs\Window_App\CHMSU LIBRARY SYSTEM PORTAL\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\xampp\htdocs\Window_App\CHMSU LIBRARY SYSTEM PORTAL\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\xampp\htdocs\Window_App\CHMSU LIBRARY SYSTEM PORTAL\obj\Debug\net6.0-windows\CHMSU LIBRARY SYSTEM PORTAL.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Window_App\CHMSU LIBRARY SYSTEM PORTAL\obj\Debug\net6.0-windows\CHMSU_LIBRARY_SYSTEM_PORTAL.Form1.resources
+C:\xampp\htdocs\Window_App\CHMSU LIBRARY SYSTEM PORTAL\obj\Debug\net6.0-windows\CHMSU_LIBRARY_SYSTEM_PORTAL.Properties.Resources.resources
+C:\xampp\htdocs\Window_App\CHMSU LIBRARY SYSTEM PORTAL\obj\Debug\net6.0-windows\CHMSU LIBRARY SYSTEM PORTAL.csproj.GenerateResource.cache
+C:\xampp\htdocs\Window_App\CHMSU LIBRARY SYSTEM PORTAL\obj\Debug\net6.0-windows\CHMSU LIBRARY SYSTEM PORTAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Window_App\CHMSU LIBRARY SYSTEM PORTAL\obj\Debug\net6.0-windows\CHMSU LIBRARY SYSTEM PORTAL.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Window_App\CHMSU LIBRARY SYSTEM PORTAL\obj\Debug\net6.0-windows\CHMSU LIBRARY SYSTEM PORTAL.AssemblyInfo.cs
+C:\xampp\htdocs\Window_App\CHMSU LIBRARY SYSTEM PORTAL\obj\Debug\net6.0-windows\CHMSU LIBRARY SYSTEM PORTAL.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Window_App\CHMSU LIBRARY SYSTEM PORTAL\obj\Debug\net6.0-windows\CHMSU LIBRARY SYSTEM PORTAL.csproj.CopyComplete
+C:\xampp\htdocs\Window_App\CHMSU LIBRARY SYSTEM PORTAL\obj\Debug\net6.0-windows\CHMSU LIBRARY SYSTEM PORTAL.dll
+C:\xampp\htdocs\Window_App\CHMSU LIBRARY SYSTEM PORTAL\obj\Debug\net6.0-windows\refint\CHMSU LIBRARY SYSTEM PORTAL.dll
+C:\xampp\htdocs\Window_App\CHMSU LIBRARY SYSTEM PORTAL\obj\Debug\net6.0-windows\CHMSU LIBRARY SYSTEM PORTAL.pdb
+C:\xampp\htdocs\Window_App\CHMSU LIBRARY SYSTEM PORTAL\obj\Debug\net6.0-windows\CHMSU LIBRARY SYSTEM PORTAL.genruntimeconfig.cache
+C:\xampp\htdocs\Window_App\CHMSU LIBRARY SYSTEM PORTAL\obj\Debug\net6.0-windows\ref\CHMSU LIBRARY SYSTEM PORTAL.dll

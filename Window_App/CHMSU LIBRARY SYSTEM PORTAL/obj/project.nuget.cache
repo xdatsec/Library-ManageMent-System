@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n7WLE9NE5x0NTJ8Lc3Jg0iMtUoH3Tdn8B8oXy3TIDZM+n2suQ/0s7X6VrkI++3bbYFloi0WvXEz5xG+UuNe/zg==",
+  "success": true,
+  "projectFilePath": "C:\\xampp\\htdocs\\Window_App\\CHMSU LIBRARY SYSTEM PORTAL\\CHMSU LIBRARY SYSTEM PORTAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daztine\\.nuget\\packages\\microsoft.web.webview2\\1.0.2045.28\\microsoft.web.webview2.1.0.2045.28.nupkg.sha512"
+  ],
+  "logs": []
+}

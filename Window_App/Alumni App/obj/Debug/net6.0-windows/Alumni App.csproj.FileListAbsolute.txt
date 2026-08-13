@@ -1,0 +1,89 @@
+C:\Users\Daztine\source\repos\Alumni App\bin\Debug\net6.0-windows\Alumni App.exe
+C:\Users\Daztine\source\repos\Alumni App\bin\Debug\net6.0-windows\Alumni App.deps.json
+C:\Users\Daztine\source\repos\Alumni App\bin\Debug\net6.0-windows\Alumni App.runtimeconfig.json
+C:\Users\Daztine\source\repos\Alumni App\bin\Debug\net6.0-windows\Alumni App.dll
+C:\Users\Daztine\source\repos\Alumni App\bin\Debug\net6.0-windows\Alumni App.pdb
+C:\Users\Daztine\source\repos\Alumni App\obj\Debug\net6.0-windows\Alumni_App.Form1.resources
+C:\Users\Daztine\source\repos\Alumni App\obj\Debug\net6.0-windows\Alumni App.csproj.GenerateResource.cache
+C:\Users\Daztine\source\repos\Alumni App\obj\Debug\net6.0-windows\Alumni App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daztine\source\repos\Alumni App\obj\Debug\net6.0-windows\Alumni App.AssemblyInfoInputs.cache
+C:\Users\Daztine\source\repos\Alumni App\obj\Debug\net6.0-windows\Alumni App.AssemblyInfo.cs
+C:\Users\Daztine\source\repos\Alumni App\obj\Debug\net6.0-windows\Alumni App.csproj.CoreCompileInputs.cache
+C:\Users\Daztine\source\repos\Alumni App\obj\Debug\net6.0-windows\Alumni App.dll
+C:\Users\Daztine\source\repos\Alumni App\obj\Debug\net6.0-windows\refint\Alumni App.dll
+C:\Users\Daztine\source\repos\Alumni App\obj\Debug\net6.0-windows\Alumni App.pdb
+C:\Users\Daztine\source\repos\Alumni App\obj\Debug\net6.0-windows\Alumni App.genruntimeconfig.cache
+C:\Users\Daztine\source\repos\Alumni App\obj\Debug\net6.0-windows\ref\Alumni App.dll
+C:\Users\Daztine\source\repos\Alumni App\obj\Debug\net6.0-windows\Alumni_App.Form2.resources
+C:\Users\Daztine\source\repos\Alumni App\obj\Debug\net6.0-windows\Alumni_App.Properties.Resources.resources
+C:\Users\Daztine\source\repos\Alumni App\obj\Debug\net6.0-windows\Alumni App.csproj.AssemblyReference.cache
+C:\Users\Daztine\source\repos\Alumni App\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Daztine\source\repos\Alumni App\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Daztine\source\repos\Alumni App\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Daztine\source\repos\Alumni App\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Daztine\source\repos\Alumni App\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Daztine\source\repos\Alumni App\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Daztine\source\repos\Alumni App\obj\Debug\net6.0-windows\Alumni App.csproj.CopyComplete
+C:\Users\Daztine\source\repos\Alumni App\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Daztine\source\repos\Alumni App\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Daztine\source\repos\Alumni App\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Daztine\source\repos\Alumni App\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Daztine\source\repos\Alumni App\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Daztine\source\repos\Alumni App\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\Daztine\source\repos\Alumni App\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Daztine\source\repos\Alumni App\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Daztine\source\repos\Alumni App\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Daztine\source\repos\Alumni App\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Daztine\source\repos\Alumni App\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Daztine\source\repos\Alumni App\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Daztine\source\repos\Alumni App\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Daztine\source\repos\Alumni App\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Daztine\source\repos\Alumni App\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Daztine\source\repos\Alumni App\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Daztine\source\repos\Alumni App\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Daztine\source\repos\Alumni App\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\xampp\htdocs\Window_App\Alumni App\bin\Debug\net6.0-windows\Alumni App.exe
+C:\xampp\htdocs\Window_App\Alumni App\bin\Debug\net6.0-windows\sqlconf.ini
+C:\xampp\htdocs\Window_App\Alumni App\bin\Debug\net6.0-windows\Alumni App.deps.json
+C:\xampp\htdocs\Window_App\Alumni App\bin\Debug\net6.0-windows\Alumni App.runtimeconfig.json
+C:\xampp\htdocs\Window_App\Alumni App\bin\Debug\net6.0-windows\Alumni App.dll
+C:\xampp\htdocs\Window_App\Alumni App\bin\Debug\net6.0-windows\Alumni App.pdb
+C:\xampp\htdocs\Window_App\Alumni App\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\xampp\htdocs\Window_App\Alumni App\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\xampp\htdocs\Window_App\Alumni App\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\xampp\htdocs\Window_App\Alumni App\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\xampp\htdocs\Window_App\Alumni App\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\xampp\htdocs\Window_App\Alumni App\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\xampp\htdocs\Window_App\Alumni App\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\xampp\htdocs\Window_App\Alumni App\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\xampp\htdocs\Window_App\Alumni App\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\xampp\htdocs\Window_App\Alumni App\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\xampp\htdocs\Window_App\Alumni App\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\xampp\htdocs\Window_App\Alumni App\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\xampp\htdocs\Window_App\Alumni App\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\xampp\htdocs\Window_App\Alumni App\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\xampp\htdocs\Window_App\Alumni App\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\xampp\htdocs\Window_App\Alumni App\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\xampp\htdocs\Window_App\Alumni App\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\xampp\htdocs\Window_App\Alumni App\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\xampp\htdocs\Window_App\Alumni App\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\xampp\htdocs\Window_App\Alumni App\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\xampp\htdocs\Window_App\Alumni App\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\xampp\htdocs\Window_App\Alumni App\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\xampp\htdocs\Window_App\Alumni App\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\xampp\htdocs\Window_App\Alumni App\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\xampp\htdocs\Window_App\Alumni App\obj\Debug\net6.0-windows\Alumni App.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Window_App\Alumni App\obj\Debug\net6.0-windows\Alumni_App.Form1.resources
+C:\xampp\htdocs\Window_App\Alumni App\obj\Debug\net6.0-windows\Alumni_App.Form2.resources
+C:\xampp\htdocs\Window_App\Alumni App\obj\Debug\net6.0-windows\Alumni_App.Properties.Resources.resources
+C:\xampp\htdocs\Window_App\Alumni App\obj\Debug\net6.0-windows\Alumni App.csproj.GenerateResource.cache
+C:\xampp\htdocs\Window_App\Alumni App\obj\Debug\net6.0-windows\Alumni App.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Window_App\Alumni App\obj\Debug\net6.0-windows\Alumni App.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Window_App\Alumni App\obj\Debug\net6.0-windows\Alumni App.AssemblyInfo.cs
+C:\xampp\htdocs\Window_App\Alumni App\obj\Debug\net6.0-windows\Alumni App.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Window_App\Alumni App\obj\Debug\net6.0-windows\Alumni App.csproj.CopyComplete
+C:\xampp\htdocs\Window_App\Alumni App\obj\Debug\net6.0-windows\Alumni App.dll
+C:\xampp\htdocs\Window_App\Alumni App\obj\Debug\net6.0-windows\refint\Alumni App.dll
+C:\xampp\htdocs\Window_App\Alumni App\obj\Debug\net6.0-windows\Alumni App.pdb
+C:\xampp\htdocs\Window_App\Alumni App\obj\Debug\net6.0-windows\Alumni App.genruntimeconfig.cache
+C:\xampp\htdocs\Window_App\Alumni App\obj\Debug\net6.0-windows\ref\Alumni App.dll
