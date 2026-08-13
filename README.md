@@ -89,8 +89,8 @@ Reports can be previewed, opened in a new window, and printed.
 - Composer / PHP libraries
 
 ---
-## Library Tools 
-*   *** Tools Folder compiled it if you want
+## Extra Tools 
+*   *** Windows App Folder compiled it if you want
 ---
 ## Setup
 - You need Xaamp to setup this and import the db from the folder
